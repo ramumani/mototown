@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MototownApplication {
 
 	public static void main(String[] args) {
-		System.out.println("123..");
+		System.out.println("1234..");
 		SpringApplication.run(MototownApplication.class, args);
 	}
 }
